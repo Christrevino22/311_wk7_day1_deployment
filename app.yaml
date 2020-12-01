@@ -1,4 +1,5 @@
 runtime: nodejs10
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: dazzling-rex-296000:us-central1:test-instance1
+  
